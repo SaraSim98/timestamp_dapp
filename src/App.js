@@ -1,6 +1,5 @@
-import React from "react";
 import "./index.css";
-import Timestamp from "./components/timestamp";
+import Timestamp from "./components/BlockTimestamp";
 
 function App() {
   return (
